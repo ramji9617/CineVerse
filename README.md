@@ -49,29 +49,6 @@ Gradle 8.x
 
 JDK 11+
 
-Setup
-
-Clone the repo:
-
-git clone https://github.com/yourusername/upnext-movies.git
-cd upnext-movies
-
-
-Open in Android Studio.
-
-Insert your Movie API key (e.g., TMDb) in local.properties:
-
-API_KEY=your_api_key_here
-
-
-Run the app on your emulator/device. 🎉
-
-📸 Screenshots
-
-(Add here once you have UI screenshots)
-
-📚 Learnings
-
 Implemented Clean Architecture with layered separation.
 
 Used Hilt for Dependency Injection.
