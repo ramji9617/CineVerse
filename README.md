@@ -1,4 +1,4 @@
-UpNext Movies is a modern Android app that lets you explore upcoming movies, view detailed information, and save your favorites in a personal watchlist.
+Cineverse Movies is a modern Android app that lets you explore upcoming movies, view detailed information, and save your favorites in a personal watchlist.
 
 The project follows Clean Architecture + MVVM, making it highly scalable, maintainable, and testable.
 
